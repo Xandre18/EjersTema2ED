@@ -1,0 +1,4 @@
+#!/bin/clisp
+
+(format t "¡Hola, soy Xandre Martinez!")
+
